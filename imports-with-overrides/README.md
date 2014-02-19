@@ -9,7 +9,7 @@ Let's admit you have defined some variables in a partial style file and want to 
 
 But some of overridden definitions depends on some other variables:
 
-    /* vars* /
+    /* vars */
     $grey: #ccc;
     $white: #fff;
 
@@ -48,4 +48,4 @@ Sass:
       color: #cccccc;
       background-color: white; }
 
-*Sass wins!*
+**Sass wins!**

@@ -1,12 +1,17 @@
-# Saas VS less-css
+# Sass VS less-css
 
-This repository is devoted to Saas and less css-preprocessors comparison with simple examples explaining why less or sass rocks or fails. Feel free to contribute.
+This repository is devoted to Sass and less css-preprocessors comparison with simple examples explaining why less or sass rocks or fails. Feel free to contribute.
 
 ## Examples
 
 Examples are listed here. For each example, the winner is cited.
 
-* `imports-with-overrides`: sequentially import variable definitions and overrides them -- Sass wins.
+* `imports-with-overrides`: sequentially import variable definitions and overrides them - **Sass wins**.
+
+### Score
+
+Sass: 1
+Less: 0
 
 ## Contributing
 
