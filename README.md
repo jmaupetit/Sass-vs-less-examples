@@ -10,8 +10,8 @@ Examples are listed here. For each example, the winner is cited.
 
 ### Score
 
-Sass: 1
-Less: 0
+* **Sass: 1**
+* Less: 0
 
 ## Contributing
 
